@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jonathanboparai
-- 👀 I’m interested in CyberSecurity!
+- 👀 I’m interested in Computer Hardware/Software
 - 🌱 I am a senior at the City College of New York (Grove School of Engineering)
 - 📫 Feel free to reach me at jonathanboparai@gmail.com.
 
